@@ -1,0 +1,1 @@
+Esse projeto é um desafio proposto por Rafaela Balerini, que propôs a criar uma landing-page de um bot ficticio, com base no projeto dela
